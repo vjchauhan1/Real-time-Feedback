@@ -1,0 +1,40 @@
+.forms {
+    display: block;
+    width: 20%; 
+    margin: 10% auto; 
+    padding: 20px; 
+    border-radius: 15px; 
+    background-color: rgb(31, 29, 29) 
+
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: white; 
+}
+
+span{
+    color: red; 
+}
+
+input {
+    width: 100%; 
+    padding: 10px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    box-sizing: border-box; 
+}
+.password input{
+margin-bottom: 20px;
+}
+
+button {
+   width: 30%;
+    padding: 10px;
+    background-color: rgb(3, 43, 31);
+    color: green;
+    font-size: medium;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
